@@ -1,0 +1,60 @@
+body{
+  background-image: url("images/back.png");
+  background-repeat: repeat;
+background-attachment: fixed;
+
+}
+img{
+  float: right;
+
+}
+*:hover{
+  background-color: yellow;
+}
+
+.maindiv{
+  border: 10px solid white;
+  width: 80%;
+  margin-left: 10%;
+  align-items:  center;
+  background-color: white;
+
+
+}
+.headdiv{
+  border: 5px solid #C2E9E9;
+    background-color: #C2E9E9;
+    text-align: right;
+}
+.headiv{
+  border: 5px  ;
+    background-color: white;
+}
+.second{
+  border: 5px solid #C2E9E9;
+  background-color: #E8FBFB;
+  margin-top: 10px;
+  padding: 5px;
+  overflow: auto;
+position: relative;
+  width: 80%;
+
+}
+span.spa{
+  border-bottom: 3px #009097 dashed;
+}
+.ibi{
+  min-width: 70%;
+}
+.links{
+float: left;
+width: 15%;
+min-width: 120px;
+overflow: auto;
+background-color: #C2E9E9;
+border: 5px solid #009097;
+margin: 10px;
+margin-left: 0px;
+padding: 3px;
+height: 170px;
+}
